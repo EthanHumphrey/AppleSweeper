@@ -1,6 +1,8 @@
 # AppleSweeper
 My winning submission for the WWDC20 Swift Student Challenge!
 
+![Welcome to my Playground](AppleSweeperExample.png)
+
 This playground is a game called "AppleSweeper" and is a recreation of the traditional Minesweeper game using SwiftUI.
  
 I worked very hard on the data structure of this playground to ensure that it would be elegant, concise, and efficient. I had to redesign it three times. It was a very interesting challenge coding a game using SwiftUI!
